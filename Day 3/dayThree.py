@@ -50,7 +50,7 @@ if extra_cheese == "Y":
 
 print(f"Your final bill is: ${bill}")  
 
-
+# Module (%) code using what you have learnt about modulo operator and conditional checks in Python to check if the number in the input area area is odd or even. 
 
 
 
