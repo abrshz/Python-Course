@@ -52,7 +52,12 @@ print(f"Your final bill is: ${bill}")
 
 # Module (%) code using what you have learnt about modulo operator and conditional checks in Python to check if the number in the input area area is odd or even. 
 
+# Nested conditions:- is put if/else statement inside other if/else statements. 
 
+# Logical operation:- 
+#  AND both conditions must be True 
+#  OR one of the conditions True 
+#  NOT the conditions is False
 
 
   
