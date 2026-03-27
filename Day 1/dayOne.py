@@ -9,7 +9,7 @@ print("Welcome to the Band Name Generator.")
 
 # Examples
 
-print('Hello ' + input('What is your name?' + '!'))
+print('Hello ' + input('What is your name?') + '!')
 
 # Variables to store values in containers for later use. Variables in a concept in programming that allows us to give label to a piece of data so that we can refer or reference that data using the chosen variable name. We will see in this lesson how to create variable ans how to use the variable to access the contained value. 
 
